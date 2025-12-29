@@ -1,7 +1,7 @@
-## 🛠️ IBM Data Engineering Professional Project
+# 🛠️ IBM Data Engineering Professional Project
 This folder contains my work and capstone projects from the IBM Data Engineering Professional Certificate. It demonstrates a full-cycle mastery of data architecture, including relational databases, NoSQL, ETL pipelines, and Big Data processing.
 
-# 🚀 Skills & Competencies
+## 🚀 Skills & Competencies
 Through this curriculum, I have developed a deep understanding of the data engineering lifecycle:
 
 Relational Databases (RDBMS): Designing and managing schemas with MySQL, PostgreSQL, and IBM DB2.
@@ -12,7 +12,7 @@ ETL & Data Pipelines: Automating data extraction, transformation, and loading us
 
 Big Data & Cloud: Processing massive datasets with Apache Spark and managing cloud infrastructure on IBM Cloud.
 
-# 📁 Projects Included
+## 📁 Projects Included
 1. Relational Database Design & SQL
 Created entity-relationship diagrams (ERDs) to model business requirements.
 
@@ -33,7 +33,7 @@ Conducted data transformation at scale using Spark SQL and DataFrames.
 
 Analyzed large-scale log files and real-time streaming data.
 
-# 🛠️ Tools Used
+## 🛠️ Tools Used
 Languages: Python, SQL, Bash.
 
 Platforms: IBM Cloud, Docker, Kubernetes.
